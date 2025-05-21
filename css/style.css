@@ -55,7 +55,12 @@ body {
 .first-section {
   background-color: #2e2f42;
 }
+.first-section .container {
+  padding-top: 188px;
+  padding-bottom: 188px;
+}
 .main-header {
+  max-width: 496px;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;

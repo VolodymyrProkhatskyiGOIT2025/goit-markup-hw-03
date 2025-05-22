@@ -273,6 +273,13 @@ img {
 }
 .header-section-our-team {
   margin-bottom: 8px;
+  text-align: center;
+}
+.paragraf-section-our-team {
+  text-align: center;
+}
+.container-section-our-team {
+  padding: 0px 0px 32px 0px;
 }
 /* ----------------- section-our-team ------------------- */
 

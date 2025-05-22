@@ -231,11 +231,14 @@ img {
 }
 /* -----------------footer style------------------- */
 .footer-container {
-  display: inline-block;
   padding-bottom: 100px;
   padding-top: 100px;
 }
 .footer-paragraf {
   max-width: 264px;
-  margin-top: 16px;
+  margin: 0;
+}
+.footer-logo {
+  display: inline-block;
+  margin-bottom: 16px;
 }

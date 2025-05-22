@@ -184,6 +184,9 @@ h6,
 p {
   margin: 0;
 }
+img {
+  display: block;
+}
 /* --------------common style------------*/
 .container {
   max-width: 1158px;
@@ -227,3 +230,12 @@ p {
   gap: 40px;
 }
 /* -----------------footer style------------------- */
+.footer-container {
+  display: inline-block;
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+.footer-paragraf {
+  max-width: 264px;
+  margin-top: 16px;
+}

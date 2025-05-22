@@ -186,6 +186,8 @@ p {
 }
 img {
   display: block;
+  max-width: 100%;
+  height: auto;
 }
 /* --------------common style------------*/
 .container {
@@ -257,6 +259,22 @@ img {
   overflow: hidden;
 }
 /* ----------------- section about style------------------- */
+
+/* ----------------- section-our-portfolio ------------------- */
+.section-our-portfolio {
+  padding-bottom: 120px;
+  padding-top: 120px;
+}
+.header-our-portfolio {
+  margin-bottom: 72px;
+}
+.our-portfolio-list {
+  flex-wrap: wrap;
+  display: flex;
+  column-gap: 24px;
+}
+}
+/* ----------------- section-our-portfolio ------------------- */
 
 /* -----------------footer style------------------- */
 .footer-container {

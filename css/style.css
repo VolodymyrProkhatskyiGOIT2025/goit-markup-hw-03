@@ -229,6 +229,23 @@ img {
   align-items: center;
   gap: 40px;
 }
+/* ----------------- section about style------------------- */
+.about {
+  padding-bottom: 120px;
+  padding-top: 120px;
+}
+.header-three {
+  margin-bottom: 8px;
+}
+.about-list {
+  display: flex;
+  gap: 24px;
+}
+.about-item {
+  width: calc((100% - 72px) / 4);
+}
+/* ----------------- section about style------------------- */
+
 /* -----------------footer style------------------- */
 .footer-container {
   padding-bottom: 100px;
@@ -242,3 +259,4 @@ img {
   display: inline-block;
   margin-bottom: 16px;
 }
+/* -----------------footer style------------------- */

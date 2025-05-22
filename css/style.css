@@ -265,7 +265,7 @@ img {
   padding-top: 120px;
 }
 .main-header-two {
-  padding-bottom: 72px;
+  margin-bottom: 72px;
 }
 .our-team-list {
   display: flex;
@@ -290,6 +290,10 @@ img {
 }
 .header-our-portfolio {
   margin-bottom: 72px;
+}
+.our-team-item {
+  border-radius: 0px 0px 4px 4px;
+  width: calc((100% - 72px) / 4);
 }
 .our-portfolio-list {
   flex-wrap: wrap;

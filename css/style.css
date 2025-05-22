@@ -244,7 +244,7 @@ img {
 .about-item {
   width: calc((100% - 72px) / 4);
 }
-.hidden {
+.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;

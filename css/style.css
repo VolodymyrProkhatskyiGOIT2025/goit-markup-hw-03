@@ -259,6 +259,22 @@ img {
   overflow: hidden;
 }
 /* ----------------- section about style------------------- */
+/* ----------------- section-our-team ------------------- */
+.section-our-team {
+  padding-bottom: 120px;
+  padding-top: 120px;
+}
+.main-header-two {
+  padding-bottom: 72px;
+}
+.our-team-list {
+  display: flex;
+  gap: 24px;
+}
+.header-section-our-team {
+  margin-bottom: 8px;
+}
+/* ----------------- section-our-team ------------------- */
 
 /* ----------------- section-our-portfolio ------------------- */
 .section-our-portfolio {
